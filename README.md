@@ -1,4 +1,4 @@
-# Java-Logic-Programs
+
 
 # Java Logic Program Repository
 
@@ -12,4 +12,4 @@ Welcome to the Java Logic Program repository! This project contains solutions to
 
  **Clone the repository:**
    ```bash
-   
+   https://github.com/Avinash-Jaypatre/Java-Logic-Programs.git
